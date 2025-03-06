@@ -70,9 +70,10 @@ This dataset is released under the [MIT License](LICENSE). You are free to use i
 ## References
 This dataset has been created and utilized in the following publications:
 
-1. J.E. Domínguez-Vidal and A. Sanfeliu. *Force and velocity prediction in human-robot collaborative transportation tasks through video retentive networks*, 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems, 2024, Abu Dhabi, UAE, pp. 9307-9313.
-2. J.E. Domínguez-Vidal and A. Sanfeliu. *Exploring transformers and visual transformers for force prediction in human-robot collaborative transportation tasks*, 2024 IEEE International Conference on Robotics and Automation, 2024, Yokohama (Japan), pp. 3191-3197.
-3. J.E. Domínguez-Vidal and A. Sanfeliu. *Improving human-robot interaction effectiveness in human-robot collaborative object transportation using force prediction*, 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems, 2023, Detroit, MI, USA, pp. 7839-7845.
+1. J.E. Domínguez-Vidal, N. Rodríguez and A. Sanfeliu. *Perception–Intention–Action Cycle in Human–Robot Collaborative Tasks: The Collaborative Lightweight Object Transportation Use-Case*, International Journal of Social Robotics, 2024, pp. 1-30, https://doi.org/10.1007/s12369-024-01103-7.
+2. J.E. Domínguez-Vidal and A. Sanfeliu. *Force and velocity prediction in human-robot collaborative transportation tasks through video retentive networks*, 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems, 2024, Abu Dhabi, UAE, pp. 9307-9313, https://doi.org/10.1109/IROS58592.2024.10801981.
+3. J.E. Domínguez-Vidal and A. Sanfeliu. *Exploring transformers and visual transformers for force prediction in human-robot collaborative transportation tasks*, 2024 IEEE International Conference on Robotics and Automation, 2024, Yokohama (Japan), pp. 3191-3197, https://doi.org/10.1109/ICRA57147.2024.10611205.
+4. J.E. Domínguez-Vidal and A. Sanfeliu. *Improving human-robot interaction effectiveness in human-robot collaborative object transportation using force prediction*, 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems, 2023, Detroit, MI, USA, pp. 7839-7845, https://doi.org/10.1109/IROS55552.2023.10342517.
 
 ## Citation
 If you use this dataset in your research, please cite it using any of the previous references:
