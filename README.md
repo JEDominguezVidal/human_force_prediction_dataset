@@ -12,7 +12,7 @@ This repository contains a dataset designed for research in predicting human for
 ### Setup Description
 This dataset was obtained in an indoor setup using the **TiaGO++ robot** by **PAL Robotics**, collaboratively working with different volunteers in a collaborative transportation task. The experiments were conducted across six different scenarios with multiple obstacles, and in all cases, at least two distinct routes were available to transport the object to the goal. For more information, refer to the articles listed in the References section or the following article:
 
-- J.E. Domínguez-Vidal, N.A. Rodríguez, and A. Sanfeliu. *Perception–intention–action cycle in human–robot collaborative tasks: The collaborative lightweight object transportation use-case*. International Journal of Social Robotics, 2024, to appear.
+- J.E. Domínguez-Vidal, N. Rodríguez and A. Sanfeliu. *Perception–Intention–Action Cycle in Human–Robot Collaborative Tasks: The Collaborative Lightweight Object Transportation Use-Case*, International Journal of Social Robotics, 2024, pp. 1-30, https://doi.org/10.1007/s12369-024-01103-7.
 
 ### Structure of Each Sample
 Each sample is divided into two groups:
